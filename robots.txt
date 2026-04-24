@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-4e8d6a.bankofq.com/sitemap.xml
